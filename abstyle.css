@@ -13,7 +13,7 @@
     font-family: 'Josefin Sans', sans-serif;
 }
 
-.about img {
+.about newimg {
     width: 50%; /* Take up half the container width */
     height: 400px; /* Maintain aspect ratio */
     max-width: 100%; /* Ensure image scales down on smaller screens */
@@ -123,3 +123,4 @@ button:hover {
         max-width: 100%; /* Full width on smaller screens */
     }
 }
+
