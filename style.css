@@ -7,7 +7,7 @@
 
 body{
     background-color: #c9d6ff;
-    background: url(img.jpg) no-repeat center center fixed;
+    background: url(newimg.png) no-repeat center center fixed;
     background-size: cover;
 }
 
@@ -149,5 +149,6 @@ button:hover{
     font-size:1rem;
     opacity:0;
     animation:fadeOut 7s forwards;
+
 
 }
