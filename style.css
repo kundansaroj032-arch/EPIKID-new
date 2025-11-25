@@ -8,9 +8,10 @@
 body {
     margin: 0;
     font-family: 'Arial', sans-serif;
-    min-height: 100vh;
-    display: flex;
-    flex-direction: column; /* Ensures header stays at the top */
+    background: url(2new.png) no-repeat center center fixed; background-size: cover; 
+    /* Cover the entire viewport */ 
+    min-height: 100vh; display: flex; 
+    flex-direction: column; /* Ensures header stays at the top */ 
 }
 
 body.page-1 {
@@ -178,5 +179,6 @@ button:hover{
 
 
 }
+
 
 
