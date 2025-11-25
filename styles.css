@@ -7,31 +7,6 @@ body {
     flex-direction: column; /* Ensures header stays at the top */
 }
 
-body.page-1 {
-    background: url('newimg.png') no-repeat center center fixed;
-    background-size: cover;
-}
-
-body.page-2 {
-    background: url('2new.png') no-repeat center center fixed;
-    background-size: cover;
-}
-
-body.page-3 {
-    background: url('demo img.jpg') no-repeat center center fixed;
-    background-size: cover;
-}
-
-body.page-4 {
-    background: url('2 DMC.webp') no-repeat center center fixed;
-    background-size: cover;
-}
-
-body.page-5 {
-    background: url('IC.jpg') no-repeat center center fixed;
-    background-size: cover;
-}
-
 .introduction {
     border: 1px solid #ccc;
     padding: 20px;
@@ -259,5 +234,6 @@ footer {
     font-size: 16px;
 
 }
+
 
 
