@@ -5,9 +5,8 @@
     font-family:"poppins",sans-serif;
 }
 
-body{
-    background-color: #c9d6ff;
-    background: url(img3.png) no-repeat center center fixed;
+.page1 {
+    background: url('img3.png') no-repeat center center fixed;
     background-size: cover;
 }
 
@@ -151,6 +150,7 @@ button:hover{
 
 
 }
+
 
 
 
