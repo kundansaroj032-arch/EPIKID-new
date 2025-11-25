@@ -5,11 +5,14 @@
     font-family:"poppins",sans-serif;
 }
 
-body{
-    background-color: #c9d6ff;
-    background: url(newimg.png) no-repeat center center fixed;
-    background-size: cover;
+body {
+    margin: 0;
+    font-family: 'Arial', sans-serif;
+    min-height: 100vh;
+    display: flex;
+    flex-direction: column; /* Ensures header stays at the top */
 }
+
 body.page-1 {
     background: url('2new.png') no-repeat center center fixed;
     background-size: cover;
@@ -175,4 +178,5 @@ button:hover{
 
 
 }
+
 
