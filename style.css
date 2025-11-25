@@ -15,13 +15,6 @@ body {
     flex-direction: column; /* Ensures header stays at the top */
 }
 
-/* Page backgrounds */
-.page1 { background-image: url("newimg.png"); }
-.page2 { background-image: url("2 DMC.webp"); }
-.page3 { background-image: url("DSCost.avif"); }
-.page4 { background-image: url("IC.jpg"); }
-.page5 { background-image: url("IntC.avif"); }
-
 .container{
     background:#fff;
     width:450px;
@@ -162,6 +155,7 @@ button:hover{
 
 
 }
+
 
 
 
